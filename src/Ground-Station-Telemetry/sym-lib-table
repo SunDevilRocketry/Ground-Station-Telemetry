@@ -1,5 +1,7 @@
 (sym_lib_table
+  (version 7)
   (lib (name "Ground-Station-Telemetry")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/Ground-Station-Telemetry/lib/Ground-Station-Telemetry.kicad_sym")(options "")(descr ""))
   (lib (name "Engine-Controller")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/Liquid-Engine-Controller/lib/Engine-Controller.kicad_sym")(options "")(descr ""))
   (lib (name "Flight-Computer")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/Flight-Computer/lib/Flight-Computer.kicad_sym")(options "")(descr ""))
+  (lib (name "RS485-Module")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/RS485-Module/src/RS485-Module/RS485-Module.kicad_sym")(options "")(descr ""))
 )
