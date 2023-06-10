@@ -508,7 +508,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../CAD/Ground-Station-Telemetry.step",
+      "step": "../../CAD/Ground-Station-Telemetry-Rev2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

@@ -23,3 +23,6 @@ based ground station computer. The unit is equipped with a socket for an XBee mo
   
    img: images of circuit/footprints for github display 
 </p>
+
+<img src="img/A0005-Rev2_0-TOP.png">
+<img src="img/A0005-Rev2_0-BOTTOM.png">
